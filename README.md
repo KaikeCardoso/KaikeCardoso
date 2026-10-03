@@ -33,15 +33,15 @@ Meus interesses principais são **SQL**, **redes**, **JavaScript** e **desenvolv
 
 ## Projetos
 
-### 🌱 [site-ong](https://github.com/KaikeCardoso/site-ong)
+### 🌱 [site-ong-instituto-renascer](https://github.com/KaikeCardoso/site-ong-instituto-renascer)
 Site de uma ONG fictícia, o **Instituto Renascer**, construído como SPA em JavaScript puro (sem framework).
 - Rotas por hash, templates com Template Literals e armazenamento local
 - Formulário de cadastro com validação por campo e máscaras (IMask.js)
 - HTML5 semântico, CSS Grid/Flexbox responsivo e acessibilidade WCAG 2.1 AA
 - Fluxo GitFlow com tags de versão e deploy automático no GitHub Pages via GitHub Actions
 - **Tecnologias:** HTML5, CSS3, JavaScript, Git, GitHub Actions
-- 🔗 [Ver online](https://kaikecardoso.github.io/site-ong/)
-
+- 🔗 [Ver online](https://kaikecardoso.github.io/site-ong-instituto-renascer/)
+  
 ## O que estou estudando
 
 **Cursando (2º semestre de ADS)**
