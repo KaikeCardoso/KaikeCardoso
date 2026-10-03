@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Kaike Henrique 👋</h1>
 
 <p align="center">
-  Estudante de Análise e Desenvolvimento de Sistemas (ADS) em transição de planejamento de operações de TI para desenvolvimento.
+  Estudante de Análise e Desenvolvimento de Sistemas (ADS).
 </p>
 
 ---
