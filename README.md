@@ -40,18 +40,25 @@ Site de uma ONG fictícia, o **Instituto Renascer**, construído como SPA em Jav
 - HTML5 semântico, CSS Grid/Flexbox responsivo e acessibilidade WCAG 2.1 AA
 - Fluxo GitFlow com tags de versão e deploy automático no GitHub Pages via GitHub Actions
 - **Tecnologias:** HTML5, CSS3, JavaScript, Git, GitHub Actions
-- 🔗 [Ver online]([link do GitHub Pages])
-
-### [Nome do segundo repositório]
-[Descrição do projeto e tecnologias]
+- 🔗 [Ver online](https://kaikecardoso.github.io/site-ong/)
 
 ## O que estou estudando
 
-- Desenvolvimento front-end (HTML, CSS e JavaScript), com foco em acessibilidade e boas práticas de versionamento
+**Cursando (2º semestre de ADS)**
+- Desenvolvimento Front-end para Web (HTML, CSS e JavaScript), com foco em acessibilidade e boas práticas de versionamento
+- Modelagem de Banco de Dados
+- Algoritmos e Pensamento Computacional
+- Design Profissional
+
+**Concluído (1º semestre de ADS)**
+- Programação de Computadores
+- Engenharia de Prompt e Aplicações em IA
+- Interface e Jornada do Usuário
+- Prototipagem de Sistemas Computacionais
+
+**Por conta própria**
 - SQL e redes
-- [Outros estudos, cursos e certificados]
 
 ## Contato
 
-- LinkedIn: [link do LinkedIn]
-- E-mail: [seu e-mail]
+- E-mail: kaikehenriquec55@gmail.com
