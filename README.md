@@ -10,8 +10,7 @@
 
 - 💼 Atuo com **planejamento e dados** em operação de cobrança, criando consultas, relatórios e rotinas em **SQL Server**
 - 📊 Trabalho com **Power BI** para acompanhamento de indicadores e resultados
-- 🎓 Cursando **ADS**, estudando modelagem de banco de dados e desenvolvimento web
-- 🌱 No momento aprendendo **JavaScript** e me aprofundando em **T-SQL** (procedures, views e transações)
+- 🎓 Cursando **ADS**, estudando modelagem de banco de dados e desenvolvimento web- 🌱 No momento me aprofundando em **T-SQL**: stored procedures, views, transações e otimização de consultas
 - 🔧 Já passei por **suporte técnico / control desk** em TI
 
 ---
